@@ -27,15 +27,6 @@ This project demonstrates practical Governance, Risk, and Compliance (GRC) skill
 - ISO 27001 Risk Management Principles
 
 ---
-cybersecurity-risk-assessment-project                                                                                                                               
-├── README.md                                                                                                        
-├── methodology.md                                                                                             
-├── risk-assessment-report.md                                                                                                    
-├── risk-register.xlsx                                                                                        
-├── risk-heat-map.md                                                                               
-└── control-mapping.md
----
-
 ## Scenario
 
 A small company relies on its IT infrastructure to store customer data, internal documents, and business communications. The company wants to assess its cybersecurity risks and implement appropriate security controls.
