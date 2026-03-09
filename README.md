@@ -28,11 +28,14 @@ This project demonstrates practical Governance, Risk, and Compliance (GRC) skill
 
 ---
 
-## Project Structure
-cybersecurity-risk-assessment-project
-│
-├── README.md
-├── methodology.md
-├── risk-assessment-report.md
-├── risk-register.xlsx
-└── risk-heat-map.md
+---
+
+## Scenario
+
+A small company relies on its IT infrastructure to store customer data, internal documents, and business communications. The company wants to assess its cybersecurity risks and implement appropriate security controls.
+
+---
+
+## Author
+Obakeng Moraka
+Cybersecurity | CompTIA CySA+ | ISC2 Certified in Cybersecurity (CC)
