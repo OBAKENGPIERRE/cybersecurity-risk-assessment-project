@@ -1,0 +1,5 @@
+| Risk ID | Asset        | Threat              | Vulnerability        | Likelihood | Impact | Risk Level | Mitigation                  |
+| ------- | ------------ | ------------------- | -------------------- | ---------- | ------ | ---------- | --------------------------- |
+| R1      | Email System | Phishing            | Weak awareness       | High       | High   | Critical   | Security awareness training |
+| R2      | Workstations | Malware             | Outdated software    | High       | Medium | High       | Endpoint protection         |
+| R3      | File Server  | Unauthorized access | Weak password policy | Medium     | High   | High       | Implement MFA               |
