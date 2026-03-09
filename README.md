@@ -29,3 +29,10 @@ This project demonstrates practical Governance, Risk, and Compliance (GRC) skill
 ---
 
 ## Project Structure
+cybersecurity-risk-assessment-project
+│
+├── README.md
+├── methodology.md
+├── risk-assessment-report.md
+├── risk-register.xlsx
+└── risk-heat-map.md
